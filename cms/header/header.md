@@ -10,6 +10,11 @@ tabs:
     url: /tutoriels
     rel: follow
     target: self
+  - label: Menu 2
+    rel: follow
+    target: self
+    theme: link
+    url: /
 right:
   - type: follow
     theme: button
